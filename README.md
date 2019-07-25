@@ -1,2 +1,4 @@
 # do-you-even-plumb
-A simple HTML templating exercise
+## A simple HTML templating exercise
+
+### Instructions:
