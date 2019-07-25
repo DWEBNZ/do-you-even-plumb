@@ -3,7 +3,7 @@
 
 ### Instructions:
 - Fork this repository
-- Create an HTML page that matches the mockup 
+- Create an HTML page that matches mockup.jpg 
 - Use Bootstrap 4
 - Push regular atomic commits so we can see the gitlog -- dont whack the whole lot in at once
 - Time limit is 24 hours
