@@ -8,4 +8,4 @@
 - Push regular atomic commits so we can see the gitlog -- dont whack the whole lot in at once
 - Time limit is 24 hours
 - Update this readme with some commentary about the way in which you built it and the decisions you made
-- Create apull request with completed page to this repository. 
+- Create a pull request with completed page to this repository
