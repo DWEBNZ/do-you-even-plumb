@@ -37,6 +37,7 @@ a:hover
 .contact-bar a
 {
 	white-space: nowrap;
+	color: white;
 }
 
 .navigation-bar p
@@ -50,6 +51,7 @@ a:hover
 {
 	margin-right: 0.5rem;
 	white-space: nowrap;
+	color: white;
 }
 
 
