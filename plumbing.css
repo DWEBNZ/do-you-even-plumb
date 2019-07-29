@@ -105,10 +105,15 @@ a:hover
 .services button
 {
 	background-color: transparent;
-	border: 1px solid #005399;
+	border: 1px inset #005399;
 	color: #005399;
 	padding: 0.5rem;
 	margin-bottom: 3rem;
+}
+
+.services button:hover
+{
+  text-decoration: underline; 
 }
 
 
