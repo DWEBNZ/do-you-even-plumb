@@ -55,5 +55,35 @@ a:hover
 	white-space: nowrap;
 }
 
+.main-image
+{
+	position: relative;
+}
 
+.contact-box
+{
+	position: absolute;
+	left: 4%;
+	top: 20%;
+	background-color: #074D93B0;
+	padding: 2rem;
+	color: white;
+}
 
+.contact-box h1
+{
+	padding-bottom: 1rem;
+	border-bottom: 1px solid #FFF !important;
+}
+
+.contact-box input
+{
+	color: gray;
+}
+
+.contact-box button
+{
+	background-color: #ffdc0c;
+	border: 1px outset darkgray;
+	padding: 2px 25px;
+}
