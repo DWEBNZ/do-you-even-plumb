@@ -1,0 +1,59 @@
+
+a:hover 
+{
+  text-decoration: underline !important; 
+}
+
+
+.header
+{
+	background-color: #005399;
+	color: #FFF;
+}
+
+.header h1
+{
+	font-weight: bold;
+	margin: 0;
+}
+
+.header h2
+{
+	font-size: 1.0rem;
+}
+
+.horz-center
+{
+	display: table;
+	margin: auto;
+}
+
+.contact-bar
+{
+	margin: 0 0 0 auto;
+	background-color: #004d85;
+}
+
+.contact-bar p
+{
+	margin: 0.5rem 1rem 0.5rem 1rem;
+}
+
+.contact-bar a
+{
+	white-space: nowrap;
+}
+
+.navigation-bar p
+{
+	margin: 0.5rem;
+}
+
+.navigation-bar a
+{
+	margin-right: 0.5rem;
+	white-space: nowrap;
+}
+
+
+
