@@ -126,6 +126,7 @@ a:hover
 }
 
 
+
 .testimonials h1
 {
 	margin-top: 2.5rem;
@@ -152,5 +153,19 @@ a:hover
 .quotee
 {
 	color: #005399;
+	font-size: 0.8rem;
+}
+
+
+
+.footer
+{
+	background-color: #005399;
+	color: white;
+}
+
+.footer p
+{
+	margin: 1.5rem;
 	font-size: 0.8rem;
 }
