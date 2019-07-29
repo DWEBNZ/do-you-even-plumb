@@ -153,6 +153,20 @@ a:hover
 	text-align: center;
 }
 
+.testimonials .carousel-indicators
+{
+	position: inherit;
+}
+
+.testimonials .carousel-indicators li
+{
+    height: 0.5em;
+    width: 0.5em;
+	border: 1px solid black;
+    border-radius: 2em;
+	background-color: black;
+}
+
 .quotee
 {
 	color: #005399;
