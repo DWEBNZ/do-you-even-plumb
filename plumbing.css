@@ -109,3 +109,23 @@ a:hover
 	padding: 0.5rem;
 	margin-bottom: 3rem;
 }
+
+
+
+.company-description
+{
+	background-color: #005399;
+	color: white;
+}
+
+.company-description h1
+{
+	font-size: 1.6rem;
+	font-weight: bold;
+	margin-top: 2.5rem;
+}
+
+.company-description img
+{
+	
+}
