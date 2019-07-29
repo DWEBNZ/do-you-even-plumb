@@ -22,16 +22,11 @@ a:hover
 	font-size: 1.0rem;
 }
 
-.horz-center
-{
-	display: table;
-	margin: auto;
-}
-
 .contact-bar
 {
 	margin: 0 0 0 auto;
 	background-color: #004d85;
+	font-size: 0.8rem;
 }
 
 .contact-bar p
@@ -47,6 +42,8 @@ a:hover
 .navigation-bar p
 {
 	margin: 0.5rem;
+	font-size: 0.9rem;
+	font-weight: bold;
 }
 
 .navigation-bar a
