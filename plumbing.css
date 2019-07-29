@@ -82,13 +82,14 @@ a:hover
 .contact-box input
 {
 	color: gray;
+	padding: 0.5rem;
 }
 
 .contact-box button
 {
 	background-color: #ffdc0c;
 	border: 1px outset darkgray;
-	padding: 2px 25px;
+	padding: 0.5rem 2rem;
 }
 
 
