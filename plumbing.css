@@ -3,6 +3,12 @@ a:hover
   text-decoration: underline !important; 
 }
 
+.img-fluid
+{
+	/* This is just to fix img-fluid on IE11 */
+	width: 100%;
+}
+
 
 /* HEADER */
 .header
@@ -65,7 +71,8 @@ a:hover
 	position: absolute;
 	left: 4%;
 	top: 20%;
-	background-color: #074D93B0;
+	/*background-color: #074D93B0;*/
+	background: rgba(7, 77, 147, .7);
 	padding: 2rem;
 	color: white;
 }
