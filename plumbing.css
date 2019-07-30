@@ -1,0 +1,225 @@
+a:hover 
+{
+  text-decoration: underline !important; 
+}
+
+.img-fluid
+{
+	/* This is just to fix img-fluid on IE11 */
+	width: 100%;
+}
+
+
+/* HEADER */
+.header
+{
+	background-color: #005399;
+	color: #FFF;
+}
+
+.header h1
+{
+	font-weight: bold;
+	margin: 0;
+}
+
+.header h2
+{
+	font-size: 1.0rem;
+}
+
+.contact-bar
+{
+	margin: 0 0 0 auto;
+	background-color: #004d85;
+	font-size: 0.8rem;
+}
+
+.contact-bar p
+{
+	margin: 0.5rem 1rem 0.5rem 1rem;
+}
+
+.contact-bar a
+{
+	white-space: nowrap;
+	color: white;
+}
+
+.navigation-bar p
+{
+	margin: 0.5rem;
+	font-size: 0.9rem;
+	font-weight: bold;
+}
+
+.navigation-bar a
+{
+	margin-right: 0.5rem;
+	white-space: nowrap;
+	color: white;
+}
+
+/* Image and contact box */
+.main-image
+{
+	position: relative;
+}
+
+.contact-box
+{
+	position: absolute;
+	left: 4%;
+	top: 20%;
+	/*background-color: #074D93B0;*/
+	background: rgba(7, 77, 147, .7);
+	padding: 2rem;
+	color: white;
+}
+
+.contact-box h1
+{
+	padding-bottom: 1rem;
+	border-bottom: 1px solid #FFF !important;
+}
+
+.contact-box input
+{
+	color: gray;
+	padding: 0.5rem;
+}
+
+.contact-box button
+{
+	background-color: #ffdc0c;
+	border: 2px outset darkgray;
+	padding: 0.5rem 2rem;
+}
+
+
+
+/* Service panels */
+.service-panel h1
+{
+	margin-top: 2.5rem;
+	color: #005399;
+	font-size: 1.4rem;
+	font-weight: bold;
+}
+
+.services button
+{
+	background-color: transparent;
+	border: 1px inset #005399;
+	color: #005399;
+	padding: 0.5rem;
+	margin-bottom: 3rem;
+}
+
+.services button:hover
+{
+  text-decoration: underline; 
+}
+
+
+/* Company description */
+.company-description
+{
+	background-color: #005399;
+	color: white;
+}
+
+.company-description h1
+{
+	font-size: 1.6rem;
+	font-weight: bold;
+	margin-top: 2.5rem;
+}
+
+
+/* Testimonials */
+.testimonials h1
+{
+	margin-top: 2.5rem;
+	font-size: 1.4rem;
+	font-weight: bold;
+	text-align: center;
+	color: #005399;
+}
+
+.testimonials h1
+{
+	margin-top: 2.5rem;
+	font-size: 1.4rem;
+	font-weight: bold;
+	text-align: center;
+	color: #005399;
+}
+
+.testimonials p
+{
+	text-align: center;
+}
+
+.testimonials .carousel-indicators
+{
+	position: inherit;
+}
+
+.testimonials .carousel-indicators li
+{
+    height: 0.5em;
+    width: 0.5em;
+	border: 1px solid black;
+    border-radius: 2em;
+	background-color: black;
+}
+
+.quotee
+{
+	color: #005399;
+	font-size: 0.8rem;
+}
+
+
+/* Footer */
+.footer
+{
+	background-color: #005399;
+	color: white;
+}
+
+.footer p
+{
+	margin: 1.5rem;
+	font-size: 0.8rem;
+}
+
+.footer .social-media
+{
+	font-size: 1.5rem;
+}
+
+.fa-facebook-f
+{
+	color: white;
+	border: 1px solid;
+	padding: 0.3rem 0.7rem;
+	border-radius: 1.5rem;
+}
+
+.fa-twitter
+{
+	color: white;
+	border: 1px solid;
+	padding: 0.3rem 0.35rem;
+	border-radius: 1.5rem;
+}
+
+.fa-google-plus-g
+{
+	color: white;
+	border: 1px solid;
+	padding: 0.3rem 0.18rem;
+	border-radius: 1.5rem;
+}
